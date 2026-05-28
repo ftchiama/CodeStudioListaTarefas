@@ -22,8 +22,6 @@ O app foi desenvolvido inteiramente no **CodeStudio**, IDE mobile nativa para An
 
 ### Capturas de Tela
 
-*(Adicione aqui as imagens do seu app rodando)*
-
 | Tela Principal | Adicionar Tarefa | Menu Rápido |
 |----------------|------------------|-------------|
 | `[screenshot1]` | `[screenshot2]` | `[screenshot3]` |
